@@ -15,11 +15,11 @@
   <br>
   🗣 I speak:
   <br>
-  <img src="" alt="italian" width="40" height="40"/> 
+  <img src="italy.png" alt="italian" width="40" height="40"/> 
   <br>
-  <img src="" alt="english" width="40" height="40"/> 
+  <img src="uk.png" alt="english" width="40" height="40"/> 
   <br>
-  <img src="" alt="german" width="40" height="40"/> 
+  <img src="germany.png" alt="german" width="40" height="40"/> 
   <br>
   📫 Reach me through: 
   <br>
