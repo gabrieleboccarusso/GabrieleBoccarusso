@@ -3,9 +3,8 @@
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" width="300">
-<img align='left' src="propic.jpeg" width="300">
 
-<p align="center">
+<p align="left">
   🌱 I’m currently learning:
   <br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
