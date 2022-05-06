@@ -2,8 +2,6 @@
   Hi 👋, I'm Gabriele Boccarusso <br> an European 🇪🇺 software developer
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" width="300">
-
 <p align="center">
   🌱 I’m currently learning:
   <br>
